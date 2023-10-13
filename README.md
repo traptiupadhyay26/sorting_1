@@ -1,2 +1,2 @@
 # sorting_1
-this is my first repository for selection sort
+this is my firstt repository for selection sort
